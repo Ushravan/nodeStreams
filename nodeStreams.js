@@ -90,3 +90,10 @@ function write(filePath) {
         }, 100);
     });
 }
+
+
+//npm install node
+//FOR WRITE THE INPUT RUN BELOW COMMAND
+// node nodeStreams.js write output.txt
+//FOR READ THE FILE RUN BELOW COMMAND
+// node nodeStreams.js read output.txt 
