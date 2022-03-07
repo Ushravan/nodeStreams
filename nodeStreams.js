@@ -97,3 +97,4 @@ function write(filePath) {
 // node nodeStreams.js write output.txt
 //FOR READ THE FILE RUN BELOW COMMAND
 // node nodeStreams.js read output.txt 
+// FOR EXIT RUN exit command
