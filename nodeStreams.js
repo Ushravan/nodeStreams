@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 const args = process.argv;
 const commands = ['read', 'write'];
 //console.log('these are the args:',args);
